@@ -1,0 +1,14 @@
+body {
+   display: flex;  
+}
+
+aside {
+   width: 20vw;
+ background-color: #134567;
+}
+
+main {
+  flex: 1;
+ background-color: #555555;
+    height: calc(100vh - 40vh);
+}
